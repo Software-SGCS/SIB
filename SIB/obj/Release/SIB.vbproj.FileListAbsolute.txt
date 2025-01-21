@@ -1,0 +1,18 @@
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\bin\SIB.dll
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\bin\SIB.pdb
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\bin\SIB.xml
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\obj\Release\SIB.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\obj\Release\SIB.vbproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\obj\Release\SIB.dll
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\obj\Release\SIB.xml
+C:\Users\user1\Documents\Visual Studio 2008\Projects\SIB\SIB\obj\Release\SIB.pdb
+C:\inetpub\wwwroot\SIB\SIB\bin\SIB.dll
+C:\inetpub\wwwroot\SIB\SIB\bin\SIB.pdb
+C:\inetpub\wwwroot\SIB\SIB\bin\SIB.xml
+C:\inetpub\wwwroot\SIB\SIB\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SIB\SIB\obj\Release\SIB.Resources.resources
+C:\inetpub\wwwroot\SIB\SIB\obj\Release\SIB.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\SIB\SIB\obj\Release\SIB.dll
+C:\inetpub\wwwroot\SIB\SIB\obj\Release\SIB.xml
+C:\inetpub\wwwroot\SIB\SIB\obj\Release\SIB.pdb
